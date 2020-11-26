@@ -57,5 +57,4 @@ it changes the directory
 14.redirection:output can be redirected to another file and input can be taken from a given file.
 
 15.CTRL_C:sends SIGINT to the foreground processes of shell
-
-     CTRL_Z:send SIGINT and SIGTSTP to foreground process and makes it background process
+   CTRL_Z:send SIGINT and SIGTSTP to foreground process and makes it background process
