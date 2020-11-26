@@ -1,6 +1,9 @@
 To run the shell:
+
+
 make
 ./a.out
+
 
 the funcitonalities implemented:
 
@@ -15,10 +18,13 @@ it changes the directory
     cd <directory>
     cd - (this changes into the previous working directory.
 
+
 2.pwd : pwd is implemented in this file.
          it gives the present working directory
+	 
 3.echo: echo is implemented in this file.
           it prints the message on the terminal
+	  
 4.ls: ls command is implemented in this file
         it lists the contents of the directory
         the commands implemented are:
@@ -31,12 +37,15 @@ it changes the directory
         ls -la
         ls <directory>
         ls ~
+	
 
 5.background : background command is implemented in this file
                 runs a process specified by & in background.
+		
 
 6.foreground: foreground is implemented in this file.
                 runs a process in foreground.
+		
 
 7.pinfo: prints process info of current shell if no arguments and prints  the process info of process with the argument as pid.
 
