@@ -1,9 +1,10 @@
 To run the shell:
 
-
 make
 ./a.out
 
+Exiting From the shell
+To exit from the shell, use the command quit
 
 the funcitonalities implemented:
 
@@ -67,3 +68,4 @@ it changes the directory
 
 15.CTRL_C:sends SIGINT to the foreground processes of shell
    CTRL_Z:send SIGINT and SIGTSTP to foreground process and makes it background process
+  
