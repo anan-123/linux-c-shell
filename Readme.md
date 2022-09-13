@@ -1,7 +1,7 @@
 # To run the shell:
 
-make
-./a.out
+1. make
+2. ./a.out
 
 # Exiting From the shell
 
